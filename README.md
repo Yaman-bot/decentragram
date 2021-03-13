@@ -13,3 +13,8 @@ It will download all the packages required for the app to run in your local mach
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### `Website Link`
+https://decentragram.herokuapp.com/ <br />
+
+Note-> You should have metamask wallet to run this app
